@@ -27,6 +27,19 @@ GPT (Generative Pre-trained Transformer) models are widely used in natural langu
    git clone https://github.com/your-username/Mini_GPT.git
    ```
 
+2. **Navigate to the Project Directory**
+
    ```bash
    cd Mini_GPT
+   ```
+   
+3. **Build the project using Maven:**
+
+   ```bash
+   mvn clean install
+   ```
+4. **Compile and run the MiniGPT class:**
+
+   ```bash
+   mvn exec:java -Dexec.mainClass="MiniGPT"
    ```
