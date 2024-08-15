@@ -25,8 +25,8 @@ GPT (Generative Pre-trained Transformer) models are widely used in natural langu
 
    ```bash
    git clone https://github.com/your-username/Mini_GPT.git
-   ```bash
+   bash```
 
    ```bash
    cd Mini_GPT
-   ```bash
+   bash```
