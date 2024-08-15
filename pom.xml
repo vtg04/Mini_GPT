@@ -1,0 +1,22 @@
+<dependencies>
+    <dependency>
+        <groupId>ai.djl</groupId>
+        <artifactId>djl-api</artifactId>
+        <version>0.16.0</version>
+    </dependency>
+    <dependency>
+        <groupId>ai.djl.mxnet</groupId>
+        <artifactId>mxnet-engine</artifactId>
+        <version>0.16.0</version>
+    </dependency>
+    <dependency>
+        <groupId>ai.djl</groupId>
+        <artifactId>djl-model-zoo</artifactId>
+        <version>0.16.0</version>
+    </dependency>
+    <dependency>
+        <groupId>ai.djl</groupId>
+        <artifactId>djl-basicdataset</artifactId>
+        <version>0.16.0</version>
+    </dependency>
+</dependencies>
