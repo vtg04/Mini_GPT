@@ -19,7 +19,7 @@ GPT (Generative Pre-trained Transformer) models are widely used in natural langu
 - **Deep Java Library (DJL)**: A Java library for deep learning.
 - **MXNet**: The deep learning engine used by DJL.
 
-## Installation
+## Setup
 
 1. **Clone the repository:**
 
